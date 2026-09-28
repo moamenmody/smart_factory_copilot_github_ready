@@ -10,6 +10,10 @@
 > **An enterprise-grade, conversational Cyber-Physical AI Copilot designed for smart manufacturing complexes and energy management systems (EMS).**  
 > Built with **Streamlit**, **LangGraph / LangChain**, **MS SQL Server (with SQLite fallback)**, and **unsupervised time-series Machine Learning**, featuring a hardened **multi-layered industrial guardrail architecture** that strictly prevents data corruption or unauthorized DDL/DML operations.
 
+
+https://github.com/user-attachments/assets/6aa2831d-3e39-4c0b-ab95-b2925b462dc4
+
+
 ---
 
 ## 🌟 Key Features
